@@ -1,0 +1,47 @@
+.button-grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+.button-grid button{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.button-set{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+.button-set button{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.center{
+    margin:auto;
+    width:50%;
+}
+
+P{
+    margin:auto;
+    width:50%;
+    text-align: center;
+}
+
+startup{
+    text-align: center;  
+    padding-top: 100px;  
+}
+
+.startup button {
+    margin:0 auto;
+    display:block;
+    
+}
